@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <h3>🔥Github Stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtahiryilmazz&show_icons=true&locale=tr&" alt="mtahiryilmazz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtahiryilmazz&show_icons=true&locale=en&" alt="mtahiryilmazz" /></p>
 
 <h3>💻 Most Used Languages</h3>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtahiryilmazz&show_icons=true&locale=en&layout=compact&" alt="mtahiryilmazz" /></p>
