@@ -13,5 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<h3>🔥Github Stats</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtahiryilmazz&show_icons=true&locale=tr&" alt="mtahiryilmazz" /></p>
+
+<h3>💻 Most Used Languages</h3>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtahiryilmazz&show_icons=true&locale=en&layout=compact&" alt="mtahiryilmazz" /></p>
+
+
 ![](https://hit.yhype.me/github/profile?user_id=3826313)
 ![](https://komarev.com/ghpvc/?username=mtahiryilmazz&style=flat&color=red&label=Sayfa+Görüntüleme)
